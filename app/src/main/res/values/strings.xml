@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FragmentsDPA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_principal">Fragmentos en Android</string>
+    <string name="et_hint_Full_Name">Enter your Full Name</string>
+    <string name="et_mail">Coloque un correo valido</string>
+    <string name="vale_btn_hombre">Hombre</string>
+    <string name="vale_btn_mujer">Mujer</string>
+    <string name="vale_btn_otros">Otros</string>
+    <string name="val_chck_licencia">Licencia</string>
+    <string name="val_chck_car">car?</string>
+    <string name="val_btn_save">SAVE</string>
+
+    <string-array name="country_array">
+        <item>Brasil</item>
+        <item>Argentina</item>
+        <item>Colombia</item>
+        <item>Uruguay</item>
+        <item>Ecuador</item>
+        <item>Peru</item>
+    </string-array>
+</resources>
